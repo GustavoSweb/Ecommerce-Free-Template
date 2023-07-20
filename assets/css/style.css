@@ -41,7 +41,14 @@
 ::-webkit-scrollbar-thumb:hover {
     background: var(--white); 
 }
-
+.img123{
+    background-image: url("../img/products/armani.jpg");
+    background-position: -20px -50px;
+    background-size: 110%;
+    width: 100%;
+    height: 330px;
+    border-radius: 20px;
+}
 html {
     scroll-behavior: smooth;
     overflow-x: hidden;
